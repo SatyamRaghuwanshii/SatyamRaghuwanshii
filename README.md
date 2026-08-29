@@ -1,43 +1,40 @@
-# Hi, I'm Satyam 
+# <p align="center"> Hi, I'm Satyam </p>
 
-### B.Tech CSE Student | Web Developer | DSA Learner
+### <p align="center"> B.Tech CSE Student | Web Developer | DSA Learner </p>
 
-I'm a **B.Tech Computer Science student** passionate about building web applications and improving my problem-solving skills.
+<p align="center"> 
+I'm a B.Tech Computer Science student passionate about building web applications and improving my problem-solving skills.
+I'm currently learning React.js and Data Structures & Algorithms with Java, while building projects to strengthen my development skills.
+</p>
 
-I'm currently learning **React.js and Data Structures & Algorithms with Java**, while building projects to strengthen my development skills.
+---
 
-### Tech Stack
+### <p align="center"> Tech Stack </p>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,github,java" />
 </p>
 
-### Currently Learning
-
-* React.js
-* Data Structures & Algorithms with Java
-* Building projects with modern web technologies
-* Next step: Node.js & Backend Development
-
-### GitHub Stats
-
+### <p align="center"> Currently Learning </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SatyamRaghuwanshii&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamRaghuwanshii&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+● React.js </br>
+● Data Structures & Algorithms with Java </br>
+● Building projects with modern web technologies </br>
+● Next step: Node.js & Backend Development
 </p>
 
-### Contribution Streak
+### <p align="center"> Contribution Streak </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SatyamRaghuwanshii&theme=tokyonight&hide_border=true" />
 </p>
 
-### Contribution Graph
+### <p align="center"> Contribution Graph </p>
 <p align="center">
-  <img src="Assets/SatyamRaghuwanshii.svg" />
+  <img src="SatyamRaghuwanshii.svg" />
 </p>
 
-### LeetCode
+### <p align="center"> LeetCode </p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/SatyamRaghuwanshii?theme=dark&font=Open%20Sans&ext=heatmap" />
