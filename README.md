@@ -30,9 +30,7 @@ I'm currently learning React.js and Data Structures & Algorithms with Java, whil
 </p>
 
 ### <p align="center"> Contribution Graph </p>
-<p align="center">
-  <img src="SatyamRaghuwanshii.svg" />
-</p>
+![snake](https://raw.githubusercontent.com/SatyamRaghuwanshii/SatyamRaghuwanshii/output/snake.svg)
 
 ### <p align="center"> LeetCode </p>
 
