@@ -20,7 +20,7 @@ I'm currently learning React.js and Data Structures & Algorithms with Java, whil
 ● React.js </br>
 ● Data Structures & Algorithms with Java </br>
 ● Building projects with modern web technologies </br>
-● Next step: Node.js & Backend Development
+● Next step: Backend Development
 </p>
 
 ### <p align="center"> Contribution Streak </p>
